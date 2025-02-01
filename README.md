@@ -1,4 +1,4 @@
-### 📄 Professional README for the **Sentiment Analysis with BERT & XAI** Project  
+### 📄 **Sentiment Analysis with BERT & XAI** Project  
 ---
 
 ## 📌 Description  
