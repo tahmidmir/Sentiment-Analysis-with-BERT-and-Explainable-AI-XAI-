@@ -56,8 +56,8 @@ jupyter notebook sentiment-analysis-bert-xai.ipynb
 ✅ **Sentiment Prediction:**  
 | Text | BERT Prediction |
 |------|-----------------|
-| "I love this product!" | Positive 😊 |
-| "The service was terrible." | Negative 😡 |
+| "I love this product!" | Positive |
+| "The service was terrible." | Negative |
 
 ✅ **Model Interpretability (LIME & SHAP):**  
 📊 SHAP and LIME visualizations show which words had the most influence on the prediction.  
