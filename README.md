@@ -66,12 +66,6 @@ pip install transformers torch numpy pandas lime shap matplotlib seaborn
 
 ---
 
-## 🏷 Tags  
-`Sentiment Analysis` `BERT` `XAI` `LIME` `SHAP` `Explainable AI` `Deep Learning` `Natural Language Processing (NLP)`  
-
----
-
-## 👨‍💻 Contribution  
 - If you have suggestions for improving the project, please submit a **Pull Request**.  
 - To report issues, please open an **Issue**.  
 
