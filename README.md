@@ -15,7 +15,7 @@ This project includes a Jupyter Notebook that performs **sentiment analysis** us
 
 ## 🔧 Installation & Requirements 
 
-## 🛠️ Dependencies  
+### Dependencies  
 **Libraries used in this project:**  
 - `transformers`  
 - `torch`  
@@ -28,8 +28,7 @@ If any library is not installed on your system, you can install it using:
 pip install transformers torch numpy pandas lime shap matplotlib seaborn
 ```
 
----
-### 2️⃣ Run the Notebook  
+### Run the Notebook  
 ```bash
 jupyter notebook sentiment-analysis-bert-xai.ipynb
 ```
